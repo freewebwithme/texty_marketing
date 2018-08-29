@@ -1,0 +1,12 @@
+[submodule "apps/messageman"]
+	path = apps/messageman
+	url = https://github.com/wlminimal/messageman.git
+[submodule "apps/bitly"]
+	path = apps/bitly
+	url = https://github.com/wlminimal/bitly.git
+[submodule "apps/payment"]
+	path = apps/payment
+	url = https://github.com/wlminimal/payment.git
+[submodule "apps/texting"]
+	path = apps/texting
+	url = https://github.com/wlminimal/texty_phoenix.git
