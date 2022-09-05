@@ -1,4 +1,3 @@
-# Texty
+# Texty Marketing(https://www.texty.marketing/)
 
-**TODO: Add description**
-
+Text marketing platform that business can engages their customer using SMS and MMS.
